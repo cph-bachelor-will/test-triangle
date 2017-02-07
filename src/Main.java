@@ -15,7 +15,7 @@ public class Main {
                 int s3 = sc.nextInt();
 
                 new Triangle(s1, s2, s3);
-                
+
             } catch (Exception e) {
                 System.out.println("Please enter digits");
             }
