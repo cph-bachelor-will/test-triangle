@@ -10,9 +10,9 @@ public class Main {
             try {
                 System.out.print("Input: ");
                 Scanner sc = new Scanner(System.in);
-                int s1 = sc.nextInt();
-                int s2 = sc.nextInt();
-                int s3 = sc.nextInt();
+                float s1 = sc.nextFloat();
+                float s2 = sc.nextFloat();
+                float s3 = sc.nextFloat();
 
                 new Triangle(s1, s2, s3);
 
