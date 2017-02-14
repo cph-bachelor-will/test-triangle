@@ -5,3 +5,5 @@ All of the testing logic is located in the /src folder. Other folders /out and /
 # Review
 The peer-review can be found in the Triangle Rview.pdf file.
 
+# Code Standards
+The coding standards best practices is found in the Coding Standards.pdf document.
